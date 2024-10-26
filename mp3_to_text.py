@@ -1,6 +1,6 @@
 import assemblyai as aai
 
-aai.settings.api_key = "7ced294a7c0141019e71795c846de164"
+aai.settings.api_key = ""
 transcriber = aai.Transcriber()
 
 mp3_filename = '6c86141f2f744e12b33e0865b38ca36b.mp3'
